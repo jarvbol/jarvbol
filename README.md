@@ -28,7 +28,7 @@ Personal hardware projects covering the complete prototyping cycle from circuit 
 OpenCV · PyTorch · YOLO · ONNX · RKNN · TensorRT
 
 **Programming**
-Python · C++ · Go · TypeScript · SQL
+Python · C++ · Go · Java · TypeScript · SQL
 
 **Edge & Systems**
 Rockchip RK3588 · Raspberry Pi · ESP32 · Linux · Docker · MQTT · PostgreSQL
